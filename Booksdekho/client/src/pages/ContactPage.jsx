@@ -70,11 +70,11 @@ const ContactPage = () => {
           
           {/* Social Icons */}
           <div className="social-icons">
-            <a href="#"><FaInstagram /></a>
-            <a href="#"><FaTwitter /></a>
-            <a href="#"><FaEnvelope /></a>
-            <a href="#"><FaWhatsapp /></a>
-            <a href="#"><FaLinkedin /></a>
+            <a href="/"><FaInstagram /></a>
+            <a href="/"><FaTwitter /></a>
+            <a href="/"><FaEnvelope /></a>
+            <a href="/"><FaWhatsapp /></a>
+            <a href="/"><FaLinkedin /></a>
           </div>
         </div>
 
